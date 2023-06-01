@@ -13,7 +13,7 @@
 			
 /*First level styles */			
 .main-menu > ul > li > a {color: #333; padding: 0 12px 15px  12px; font-size:12px; text-transform:uppercase;}
-.main-menu > ul > li:hover > a {color: #6f962c;}
+.main-menu > ul > li:hover > a {color: #F29109;}
 
 /* Opacity mask when left open */
 .layer {display: none; position: fixed; top: 0; left: 0; width: 100%; min-width: 100%; z-index: 100; min-height: 100%; background-color: #000; opacity: 0; z-index:99999;}
@@ -39,7 +39,7 @@ a.dropdown-toggle.icon-search{display: inline-block;}
 		
 /* Submenu */
 .main-menu ul ul,
-.main-menu ul .menu-wrapper {position: absolute;border-top: 2px solid #6f962c;display: none;z-index: 1;height: auto;left: 3px;top: 100%;margin: 0;padding: 0;background: #fff;min-width:170px;-webkit-box-shadow: 0 6px 12px rgba(0, 0, 0, .175);box-shadow: 0 6px 12px rgba(0, 0, 0, .175);}
+.main-menu ul .menu-wrapper {position: absolute;border-top: 2px solid #F29109;display: none;z-index: 1;height: auto;left: 3px;top: 100%;margin: 0;padding: 0;background: #fff;min-width:170px;-webkit-box-shadow: 0 6px 12px rgba(0, 0, 0, .175);box-shadow: 0 6px 12px rgba(0, 0, 0, .175);}
 
 /* Submenu 3rd level v.14 */
 .main-menu ul ul ul,
@@ -60,7 +60,7 @@ a.dropdown-toggle.icon-search{display: inline-block;}
 .main-menu ul ul li a {font-size: 12px;color: #666;border-bottom:1px solid #ededed;display: block;}
 .main-menu ul ul li:last-child a {border-bottom:none;}
 
-.main-menu ul ul li:hover > a {background-color:#f9f9f9;color:#6f962c;}
+.main-menu ul ul li:hover > a {background-color:#f9f9f9;color:#F29109;}
 	
 /* Megamenu */
 .main-menu ul li.megamenu {position:static}
@@ -80,7 +80,7 @@ a.dropdown-toggle.icon-search{display: inline-block;}
 a.show-submenu:hover,
 a.show-submenu:focus,
 a.show-submenu-mega:hover,
-a.show-submenu-mega:focus{color:#6f962c !important;background-color:#f9f9f9;}	
+a.show-submenu-mega:focus{color:#F29109 !important;background-color:#f9f9f9;}	
 	
 .main-menu ul li  {border-top: none;border-bottom: 1px solid #ededed;color: #fff;}
 
@@ -94,7 +94,7 @@ a.show-submenu-mega:focus{color:#6f962c !important;background-color:#f9f9f9;}
 .main-menu a {display: block;color:#333 !important;}
 .main-menu li {position: relative;}
 	
-.main-menu a:hover {color:#6f962c !important;}
+.main-menu a:hover {color:#F29109 !important;}
 	
 .main-menu ul > li {padding-bottom: 0;}
 .main-menu ul > li i{float:right;}
